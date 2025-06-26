@@ -1,6 +1,6 @@
 # 🧾 Consolidador de Pagamentos do MS (.xlsx)
 
-Este script em Python permite consolidar valores pagos pelo Ministério da Saúde com base em uma planilha Excel, agrupando os dados por competência (mês/ano).
+Este script em Python permite consolidar valores pagos com base em uma planilha Excel, agrupando os dados por competência (mês/ano).
 
 ---
 
