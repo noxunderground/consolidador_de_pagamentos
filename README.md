@@ -19,7 +19,9 @@ O script solicita que o usuário forneça o caminho de um arquivo `.xlsx` que po
 
 - `DATAS`: com datas válidas
 - `Valor Pago pelo MS`: com os valores a serem consolidados
+Além disso, deve ter um cabeçalho padrão da forma:
 
+![image](https://github.com/user-attachments/assets/62d04e9f-aae6-493d-9144-591766e8d58b)
 ---
 
 ## 📤 Saída
