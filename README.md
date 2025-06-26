@@ -1,4 +1,4 @@
-# 🧾 Consolidador de Pagamentos do MS (.xlsx)
+# 🧾 Consolidador de Pagamentos (.xlsx)
 
 Este script em Python permite consolidar valores pagos com base em uma planilha Excel, agrupando os dados por competência (mês/ano).
 
